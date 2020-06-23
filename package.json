@@ -1,0 +1,30 @@
+{
+  "name": "hello_vue",
+  "private": true,
+  "dependencies": {
+    "@iota/area-codes": "^0.1.1",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.2.2",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "leaflet": "^1.6.0",
+    "leaflet-draw": "^1.0.4",
+    "toastify-js": "^1.8.0",
+    "turbolinks": "^5.2.0",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-loader": "^15.8.3",
+    "vue-router": "^3.1.5",
+    "vue-template-compiler": "^2.6.11",
+    "vue2-leaflet": "^2.5.2",
+    "vue2-leaflet-draw-toolbar": "^0.1.1",
+    "vuex": "^3.1.2"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.10.1"
+  }
+}
